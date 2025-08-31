@@ -1,0 +1,6 @@
+Date,Rainfall_mm,Temp_C,Humidity,Soil_Moisture,Crop_Type,Stage,Irrigation_Required
+2025-08-01,5,32,60,28,Wheat,Vegetative,Yes
+2025-08-02,20,29,75,45,Wheat,Vegetative,No
+2025-08-03,0,35,50,18,Rice,Flowering,Yes
+2025-08-04,12,30,70,40,Rice,Flowering,No
+2025-08-05,8,31,65,30,Maize,Maturity,Yes
